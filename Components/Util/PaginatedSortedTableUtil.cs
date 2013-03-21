@@ -7,6 +7,8 @@ using System.Text.RegularExpressions;
 using SRV.Application.Components.Util;
 using SRV.Application.Components.Exceptions;
 
+//Autores : Geovanny Ribeiro e Emerson Barbosa
+
 namespace SRV.Application.Components.Util
 {
     public class PaginatedSortedTableUtil

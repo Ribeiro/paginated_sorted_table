@@ -8,6 +8,8 @@ using NHibernate.Criterion;
 using System.Reflection;
 using SRV.Application.Components.Util;
 
+//Autores : Geovanny Ribeiro e Emerson Barbosa
+
 namespace SRV.Application.Components.Core
 {
     public class PaginatedSortedTable<T> where T : class

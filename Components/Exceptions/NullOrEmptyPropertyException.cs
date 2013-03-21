@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+//Autores : Geovanny Ribeiro e Emerson Barbosa
+
 namespace SRV.Application.Components.Exceptions
 {
     public class NullOrEmptyPropertyException : Exception
